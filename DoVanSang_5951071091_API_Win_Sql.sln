@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoVanSang_5951071091_API_Win_Sql", "DoVanSang_5951071091_API_Win_Sql\DoVanSang_5951071091_API_Win_Sql.csproj", "{8FC2F359-442D-4FE3-9D6D-3696F232FB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC2F359-442D-4FE3-9D6D-3696F232FB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC2F359-442D-4FE3-9D6D-3696F232FB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC2F359-442D-4FE3-9D6D-3696F232FB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC2F359-442D-4FE3-9D6D-3696F232FB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99335632-0077-49FB-81AE-73D5F2BA310A}
+	EndGlobalSection
+EndGlobal
